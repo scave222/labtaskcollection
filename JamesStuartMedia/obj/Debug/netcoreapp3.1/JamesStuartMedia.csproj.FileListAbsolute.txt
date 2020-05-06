@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\obj\Debug\netcoreapp3.1\JamesStuartMedia.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\obj\Debug\netcoreapp3.1\JamesStuartMedia.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\obj\Debug\netcoreapp3.1\JamesStuartMedia.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\obj\Debug\netcoreapp3.1\JamesStuartMedia.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\bin\Debug\netcoreapp3.1\JamesStuartMedia.exe
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\bin\Debug\netcoreapp3.1\JamesStuartMedia.deps.json
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\bin\Debug\netcoreapp3.1\JamesStuartMedia.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\bin\Debug\netcoreapp3.1\JamesStuartMedia.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\bin\Debug\netcoreapp3.1\JamesStuartMedia.dll
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\bin\Debug\netcoreapp3.1\JamesStuartMedia.pdb
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\obj\Debug\netcoreapp3.1\JamesStuartMedia.dll
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\obj\Debug\netcoreapp3.1\JamesStuartMedia.pdb
+C:\codebits-academy\html5\C#\labtask12collections\JamesStuartMedia\obj\Debug\netcoreapp3.1\JamesStuartMedia.genruntimeconfig.cache

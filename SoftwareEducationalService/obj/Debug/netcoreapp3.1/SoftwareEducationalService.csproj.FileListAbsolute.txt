@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\bin\Debug\netcoreapp3.1\SoftwareEducationalService.exe
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\bin\Debug\netcoreapp3.1\SoftwareEducationalService.deps.json
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\bin\Debug\netcoreapp3.1\SoftwareEducationalService.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\bin\Debug\netcoreapp3.1\SoftwareEducationalService.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\bin\Debug\netcoreapp3.1\SoftwareEducationalService.dll
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\bin\Debug\netcoreapp3.1\SoftwareEducationalService.pdb
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\obj\Debug\netcoreapp3.1\SoftwareEducationalService.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\obj\Debug\netcoreapp3.1\SoftwareEducationalService.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\obj\Debug\netcoreapp3.1\SoftwareEducationalService.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\obj\Debug\netcoreapp3.1\SoftwareEducationalService.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\obj\Debug\netcoreapp3.1\SoftwareEducationalService.dll
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\obj\Debug\netcoreapp3.1\SoftwareEducationalService.pdb
+C:\codebits-academy\html5\C#\labtask12Collections\SoftwareEducationalService\obj\Debug\netcoreapp3.1\SoftwareEducationalService.genruntimeconfig.cache

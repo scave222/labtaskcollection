@@ -1,0 +1,13 @@
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.exe
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.deps.json
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.json
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.runtimeconfig.dev.json
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.dll
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\bin\Debug\netcoreapp3.1\HashTable.pdb
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.csprojAssemblyReference.cache
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.csproj.CoreCompileInputs.cache
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfoInputs.cache
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.AssemblyInfo.cs
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.dll
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.pdb
+C:\codebits-academy\html5\C#\labtask12Collections\HashTable\obj\Debug\netcoreapp3.1\HashTable.genruntimeconfig.cache
